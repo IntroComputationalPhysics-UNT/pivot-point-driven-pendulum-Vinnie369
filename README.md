@@ -9,7 +9,7 @@ Sunday, November 2nd at 11:59 pm
 **Overview:** Simulate and analyze the motion of a rigid pendulum whose pivot point moves in a circular path about the pendulum bob. Start with the pendulum initially hanging vertically at rest. The pivot motion is parameterized by
 
 $$ x_p(t)=−l sin\left(\omega_d t\right) $$
-$$ y_p(t)=l\left(1−cos⁡\left(\omega_d t\right)\right) $$ 
+$$ y_p(t)=l\left(cos⁡\left(\omega_d t\right)-1\right) $$ 
 
 so that the pivot moves in a circle of radius $l$ about the pendulum’s initial equilibrium position.
 
